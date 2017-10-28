@@ -1,8 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %       It is helpful to use a reduced model with only two state variables to study the effects of noninactivation. 
 %       Because in classical HH model, we have 4 state variables (V, n, m, h). Simulating this model in any real life
 %       problem specifically while observing a network, is not very efficient. So this model is often reduced to a two
 %       variable system with n and V as the only state variables by appropriately setting m and h. It should show that
 %       the reduced model has the same general behavior as the full model, with minor differences. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 %% declaring variables :
