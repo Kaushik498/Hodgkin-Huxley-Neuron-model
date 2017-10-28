@@ -1,9 +1,11 @@
-%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %       One cause of a paralytic muscle disease called myotonia is loss of Na+ channel inactivation due to a genetic defect. 
 %       The action potential will be shown to be very sensitive to small changes in Na+ channel inactivation. The above situation 
 %       is modeled by assuming that a fraction fni of Na+ channels do not inactivate, so that the sodium current in this HH model 
 %       is given by:
 %       I_Na = gNa(1-fni)*(m^3)*h*(V - vNa) + gNa*fni*(m^3)*(V - vNa) ;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 %% declaring variables :
 
